@@ -197,6 +197,7 @@ h1, h2, h3, h4, h5, h6{
     margin-top: 46px;
     padding-top: 50%;
     background: url('../img/la.jpg') top center / cover no-repeat;
+    height: 100vh;
 }
 
 #slider .text-content{
